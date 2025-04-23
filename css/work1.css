@@ -1,0 +1,14 @@
+body{
+    background-color:aliceblue;
+    background-image:url("../../Website/Images/background.webp");
+    background-repeat: none;
+    background-size:auto;
+}
+
+video{
+    width:70%;
+}
+
+embed{
+    width:70%;
+}

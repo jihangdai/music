@@ -1,0 +1,19 @@
+body{
+    background-color:aliceblue;
+    background-image:url("../../Website/Images/background.webp");
+    background-size:auto;
+
+}
+
+h1{
+    text-align: center;
+    color:indigo;
+}
+
+h2{
+    color:mediumblue;
+}
+
+nav a{
+    text-decoration:none;
+}
